@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
 
        // first method--->>
-//       MyInterImpl myInter= new MyInterImpl();
+//       MyInterImpl myInter=new MyInterImpl();
 //       myInter.sayHello();
 
         //second method--->>
